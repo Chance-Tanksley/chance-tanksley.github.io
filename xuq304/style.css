@@ -1,0 +1,25 @@
+body {
+  background-color: rgb(250, 235, 215);
+  text-align: center;
+  font-family: system-ui;
+}
+
+div.me {
+  margin: auto;
+  border-width: 10px;
+  border-color: rgb(181, 126, 220);
+  width: 250px;
+  height: 375px;
+  padding: 20px;
+  background-color: rgb(220, 208, 255);
+}
+p {
+  border: thick;
+  border-color: #cc99ff;
+  padding: 5px;
+  background-color: rgb(220, 208, 255);
+}
+
+h1 {
+  color: rgb(0, 0, 0);
+}
